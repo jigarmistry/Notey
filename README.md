@@ -8,5 +8,5 @@ Goal
 * Create full featured NOTE(Sticky notes!) taking application
    * User can add,update,delete NOTE
    * User can search in NOTE
-   * User can download and mail NOTE by date
+   * User can download and mail NOTE by date,category and many more
 
