@@ -1,4 +1,4 @@
-web2pyapp
+Notey
 =========
 
 First app in web2py framework.
