@@ -6,7 +6,7 @@
 #########################################################################
 
 response.logo = A(B('Notey'),XML('&trade;&nbsp;'),
-                  _class="brand",_href="#")
+                  _class="brand",_href="http://www.web2py.com/")
 response.title = request.application.replace('_',' ').title()
 response.subtitle = ''
 

@@ -3,7 +3,7 @@
 
 {{if 'message' in globals():}}
 <h3>{{=message}}</h3>
-<h4>
+<h2>
     Work in progress!
-</h4>
+</h2>
 {{pass}}

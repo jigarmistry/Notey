@@ -1,2 +1,22 @@
 [2014-10-17 20:34:25] START
 [2014-10-17 20:38:07] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-17 20:54:18] EDIT web2pyapp/views/default/index.html: -27
+[2014-10-17 20:56:05] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-17 20:56:38] EDIT web2pyapp/views/default/index.html: -1
+[2014-10-17 20:56:54] EDIT web2pyapp/views/default/index.html: 1
+[2014-10-17 20:57:43] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-17 20:58:46] EDIT web2pyapp/views/layout.html: 1
+[2014-10-17 20:59:07] EDIT web2pyapp/views/layout.html: -1
+[2014-10-17 20:59:39] EDIT web2pyapp/views/layout.html: -5
+[2014-10-17 21:00:14] EDIT web2pyapp/controllers/default.py: 1
+[2014-10-17 21:00:25] EDIT web2pyapp/controllers/default.py: -1
+[2014-10-17 21:01:04] EDIT web2pyapp/views/layout.html: 0
+[2014-10-17 21:01:24] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-17 21:02:04] EDIT web2pyapp/views/layout.html: -1
+[2014-10-17 21:03:05] EDIT web2pyapp/views/layout.html: 0
+[2014-10-17 21:03:13] EDIT web2pyapp/views/layout.html: 0
+[2014-10-17 21:03:50] EDIT web2pyapp/views/layout.html: 0
+[2014-10-17 21:04:28] EDIT web2pyapp/models/menu.py: 0
+[2014-10-17 21:04:38] EDIT web2pyapp/models/menu.py: 0
+[2014-10-17 21:05:19] EDIT web2pyapp/views/default/index.html: 3
+[2014-10-17 21:05:33] EDIT web2pyapp/views/default/index.html: 0
