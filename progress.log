@@ -23,3 +23,14 @@
 [2014-10-18 07:55:45] EDIT web2pyapp/models/menu.py: 0
 [2014-10-18 07:58:03] EDIT web2pyapp/controllers/default.py: 1
 [2014-10-18 08:01:06] EDIT web2pyapp/controllers/default.py: 1
+[2014-10-18 08:06:08] EDIT web2pyapp/views/layout.html: 5
+[2014-10-18 08:06:39] EDIT web2pyapp/models/menu.py: 0
+[2014-10-18 08:07:07] EDIT web2pyapp/models/menu.py: -1
+[2014-10-18 08:08:10] EDIT web2pyapp/models/menu.py: 0
+[2014-10-18 08:09:36] EDIT web2pyapp/controllers/default.py: 3
+[2014-10-18 08:09:57] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-18 08:10:12] EDIT web2pyapp/models/menu.py: -2
+[2014-10-18 08:11:01] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-18 08:11:46] EDIT web2pyapp/controllers/default.py: 1
+[2014-10-18 08:12:00] EDIT web2pyapp/controllers/default.py: 0
+[2014-10-18 08:14:53] EDIT web2pyapp/models/db.py: 0

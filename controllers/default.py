@@ -17,6 +17,10 @@ def index():
     if you need a simple wiki simply replace the two lines below with:
     return auth.wiki()
     """
+    response.menu += [
+    (T('Home'), False, URL('default', 'index')),(T('Add Note'), False, URL('default', 'index'))
+      ,(T('View Note'), False, URL('default', 'index')),(T('Settings'), False, URL('default', 'index'))
+    ]
     response.flash = T("Welcome to Notey!")
     print auth.user
     return dict(message=T('NOTE taking application'))
