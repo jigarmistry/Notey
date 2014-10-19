@@ -2,7 +2,7 @@ Notey
 =========
 ![alt tag](https://raw.github.com/jigarmistry/Notey/master/static/images/sticky_notes.png)
 
-First app in web2py framework.
+First app in web2py framework(Work in progress!!)
 
 Goal 
 ------
